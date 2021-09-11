@@ -1,4 +1,4 @@
-package prototype.clone;
+package designpattern.prototype.clone;
 
 /**
  * @ProjectName: code

@@ -1,4 +1,4 @@
-package prototype.deepClone;
+package designpattern.prototype.deepClone;
 
 /**
  * @ProjectName: code

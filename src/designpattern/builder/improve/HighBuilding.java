@@ -1,4 +1,4 @@
-package builder.improve;
+package designpattern.builder.improve;
 
 /**
  * @ProjectName: code
@@ -10,19 +10,19 @@ package builder.improve;
  * @UpdateDate: 2021/9/11 下午10:10
  * @Version: 1.0
  */
-public class CommonHouse extends HouseBuilder {
+public class HighBuilding extends HouseBuilder {
     @Override
     public void buildBasic() {
-        System.out.println("普通房子打地基1米");
+        System.out.println("高楼打地基100米");
     }
 
     @Override
     public void buildWalls() {
-        System.out.println("普通房子砌墙5cm");
+        System.out.println("高楼砌墙10cm");
     }
 
     @Override
     public void roofed() {
-        System.out.println("普通房子封顶");
+        System.out.println("高楼封顶");
     }
 }

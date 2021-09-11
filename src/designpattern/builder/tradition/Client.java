@@ -1,4 +1,4 @@
-package builder.tradition;
+package designpattern.builder.tradition;
 
 /**
  * @ProjectName: code

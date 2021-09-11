@@ -1,4 +1,4 @@
-package prototype.tradition;
+package designpattern.prototype.tradition;
 
 /**
  * @ProjectName: code
